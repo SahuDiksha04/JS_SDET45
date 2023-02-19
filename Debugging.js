@@ -9,7 +9,7 @@ function sum() {
    //memory allocation
    var userdata="1008";
    function studentdata(name , rank) {
-    console.log(name+"has scored"+rank);
+    console.log(name+" "+ "has scored"+" "+rank);
      }
 
      var uservalue="R";

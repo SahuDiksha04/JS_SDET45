@@ -19,7 +19,7 @@ class Program1
         console.log(name);      
         console.log(this.a);             //access non static variable by using this keyword
         console.log(Program1.b);         //access static variable by using class name
-                ///return "di"
+                return "di"
     }
 
     static details(number=20)

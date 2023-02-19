@@ -19,7 +19,7 @@ var txt = 123
 
 //console.log(str.match("y"));
 
-//console.log(str.split(" "));
+console.log(str.split(" "));
 
 //console.log(str.startsWith("My"));
 
