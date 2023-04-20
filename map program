@@ -1,0 +1,9 @@
+let str="good morning"
+
+let vv=str.split('').map(value=>{if('aeiou'.includes(value))
+{
+    return value.toUpperCase()
+}
+else
+return value}).join('')
+console.log(vv);
